@@ -2,4 +2,11 @@
   <td>
     <h4><%= category.name %></h4>
   </td>
+  <td>
+              <ul>
+                <% category.products.each do |product| %>
+                  <li><%= product.name %></li>
+                <% end %>
+              </ul>
+            </td>
 </tr>
