@@ -3,7 +3,13 @@
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
 ## Explaination of project
-We were given a mostly complete Ruby on Rails project that needed some bugs fixed and features implemented. This was to simulate a real world on the job experience. We were given tasks to complete and a week deadline, there was also minimal guidance during this time. This project helped me become more adaptable by having us learn a new language while fixing the app. Below are screenshots of some of the features that I implemented into the project. 
+We started with a mostly complete Ruby on Rails project that needed some bugs fixed and features implemented. This was to simulate a real world on the job experience. 
+
+We were given tasks to complete and a week deadline, there was also minimal guidance during this time. 
+
+This project helped me become more adaptable by having us learn a new language while fixing the app (we hadn't used Ruby before this project). 
+
+Below are screenshots of some of the features that I implemented into the project. 
 
 ## Screenshots
 
